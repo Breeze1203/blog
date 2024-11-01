@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Home</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2019 17:18:05 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Thu, 18 Jul 2019 17:18:05 +0100</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://git.io/typing-svg&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;Typing SVG&#34; src=&#34;https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;color=F78A13&amp;width=600&amp;height=40&amp;lines=%E5%9C%A8%E9%80%BB%E8%BE%91%E7%9A%84%E6%A3%AE%E6%9E%97%E9%87%8C%EF%BC%8C%E4%BB%A3%E7%A0%81%E5%A6%82%E8%AF%97%E8%A1%8C%E8%88%AC%E6%B5%81%E6%B7%8C%EF%BC%8C%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%94%BB%E7%AC%94%E7%BB%98%E5%87%BA%E6%A2%A6%E6%83%B3%E7%9A%84%E6%A8%A1%E6%A0%B7&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

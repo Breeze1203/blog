@@ -126,7 +126,7 @@ languageName = ":cn:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "https://github.com/Breeze1203"
 
 [[languages.en.menu.main]]
 name = "Blog"
@@ -136,37 +136,37 @@ url = "posts/"
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "projects/"
+url = "https://github.com/Breeze1203"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
-url = "contact/"
+url = "mailto:tpeng9240@gmail.com"
 
-[languages.pt-br]
-languageName = ":cn:"
+#[languages.pt-br]
+#languageName = ":cn:"
 
-[languages.pt-br.params]
-author = "彭涛"
-info = "在逻辑的森林里，代码如诗行般流淌，设计的画笔绘出梦想的模样"
-keywords = "blog,desenvolvedor,pessoal"
+#[languages.pt-br.params]
+#author = "彭涛"
+#info = "在逻辑的森林里，代码如诗行般流淌，设计的画笔绘出梦想的模样"
+#keywords = "blog,desenvolvedor,pessoal"
 
-[[languages.pt-br.menu.main]]
-name = "关于"
-weight = 1
-url = "about/"
+#[[languages.pt-br.menu.main]]
+#name = "关于"
+#weight = 1
+#url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "博客"
-weight = 2
-url = "posts/"
+#[[languages.pt-br.menu.main]]
+#name = "博客"
+#weight = 2
+#url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "项目"
-weight = 3
-url = "projects/"
+#[[languages.pt-br.menu.main]]
+#name = "项目"
+#weight = 3
+#url = "projects/"
 
-[[languages.pt-br.menu.main]]
-name = "联系我"
-weight = 5
-url = "contact/"
+#[[languages.pt-br.menu.main]]
+#name = "联系我"
+#weight = 5
+#url = "contact/"
