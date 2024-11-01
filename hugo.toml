@@ -1,0 +1,172 @@
+baseURL = "http://www.example.com"
+title = "Home"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 6
+enableEmoji = false
+
+[services]
+[services.disqus]
+# Enable Disqus comments
+# shortname = "yourdiscussshortname"
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Peng Tao"
+description = "PengTao's personal website"
+keywords = "blog,developer,personal"
+info = "In the forest of logic, code flows like lines of poetry, and the brush of design paints the appearance of dreams."
+avatarURL = "images/avatar.jpg"
+dateFormat = "January 2, 2006"
+since = 2019
+commit = "https://github.com/luizdepra/hugo-coder/tree/" 
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[params.fathomAnalytics]
+siteID = "ABCDE"
+serverURL = "analytics.example.com"
+
+[params.plausibleAnalytics]
+domain = "example.com"
+serverURL = "analytics.example.com"
+outboundLinksTracking = true
+fileDownloadsTracking = true
+
+[params.goatCounter]
+code = "code"
+
+[params.cloudflare]
+token = "token"
+
+[params.matomo]
+siteID = "ABCDE"
+serverURL = "analytics.example.com"
+
+[params.googleTagManager]
+id = "gid"
+
+[params.yandexMetrika]
+id = "gid"
+
+[params.applicationInsights]
+connectionString = "connectionString"
+
+[params.microAnalytics]
+id = "ABCDE"
+dnt = "false"
+
+[params.pirsch]
+code = "ABCDE"
+
+[params.umami]
+siteID = "ABCDE"
+scriptURL = "analytics.REGION.umami.is/SCRIPTNAME.js"
+
+[params.csp]
+childsrc = ["'self'"]
+fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"] 
+formaction = ["'self'"]
+framesrc = ["'self'", "https://www.youtube.com"] 
+imgsrc = ["'self'"]
+objectsrc = ["'none'"]
+stylesrc = [
+  "'self'",
+  "'unsafe-inline'",
+  "https://fonts.googleapis.com", 
+  "https://cdn.jsdelivr.net/", 
+]
+scriptsrc = [
+  "'self'",
+  "'unsafe-inline'",
+  "https://www.google-analytics.com", 
+  "https://cdn.jsdelivr.net/", 
+]
+prefetchsrc = ["'self'"]
+connectsrc = ["'self'", "https://www.google-analytics.com"] 
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/Breeze1203/"
+
+[[params.social]]
+name = "Gmail"
+icon = "fa-solid fa-envelope-circle-check fa-2x"
+weight = 2
+url = "mailto:tpeng9240@gmail.com"
+
+[[params.social]]
+name = "RSS"
+icon = "fa-solid fa-rss fa-2x"
+weight = 6
+url = ""
+rel = "alternate"
+type = "application/rss+xml"
+
+[languages.en]
+languageName = ":cn:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
+
+[languages.pt-br]
+languageName = ":cn:"
+
+[languages.pt-br.params]
+author = "彭涛"
+info = "在逻辑的森林里，代码如诗行般流淌，设计的画笔绘出梦想的模样"
+keywords = "blog,desenvolvedor,pessoal"
+
+[[languages.pt-br.menu.main]]
+name = "关于"
+weight = 1
+url = "about/"
+
+[[languages.pt-br.menu.main]]
+name = "博客"
+weight = 2
+url = "posts/"
+
+[[languages.pt-br.menu.main]]
+name = "项目"
+weight = 3
+url = "projects/"
+
+[[languages.pt-br.menu.main]]
+name = "联系我"
+weight = 5
+url = "contact/"
