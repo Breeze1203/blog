@@ -15,7 +15,7 @@ enableEmoji = false
 noClasses = false
 
 [params]
-author = "Peng Tao"
+#author = "Peng Tao"
 description = "PengTao's personal website"
 keywords = "blog,developer,personal"
 info = "In the forest of logic, code flows like lines of poetry, and the brush of design paints the appearance of dreams."
