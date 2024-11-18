@@ -5,6 +5,7 @@ date: 2020-09-15T11:30:03+00:00
 # aliases: ["/first"]
 tags: ["sso"]
 author: "Me"
+categories: ["springsecurity"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
